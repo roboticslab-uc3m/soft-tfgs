@@ -4,4 +4,6 @@ En este repositorio se encuentran las propuestas de Trabajos de Fin de Grado (TF
 
 ## Propuestas
 
-1. [Desarrollo de un guante](glove.md)
+1. [Diseño de un guante sensorizado](glove.md)
+
+2. [Diseño de un dedo actuado y sensorizado](finger.md)
